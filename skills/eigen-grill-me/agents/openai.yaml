@@ -1,0 +1,6 @@
+interface:
+  display_name: "Eigen Grill Me"
+  short_description: "Find the question that resolves the rest"
+  default_prompt: "Use $eigen-grill-me to reframe this problem and ask me the highest-leverage question first."
+policy:
+  allow_implicit_invocation: false
