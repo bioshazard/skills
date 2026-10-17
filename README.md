@@ -5,6 +5,7 @@ Personal agent skills, kept small and editable.
 ## Skills
 
 - [`eigen-grill-me`](skills/eigen-grill-me/SKILL.md) — find and ask the question that resolves the most downstream decisions.
+- [`script-first`](skills/script-first/SKILL.md) — encode operational changes in a parameterized script, rehearse it, then execute and verify production.
 
 ## Install
 
