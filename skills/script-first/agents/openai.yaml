@@ -1,0 +1,4 @@
+interface:
+  display_name: "Script First"
+  short_description: "Script, rehearse, then execute operational changes"
+  default_prompt: "Use $script-first to turn this operational procedure into a tested script before executing it."
